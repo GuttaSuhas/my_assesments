@@ -1,0 +1,50 @@
+using ConsoleApp2;
+
+Prog
+
+O references
+
+public class Program
+
+{
+
+O references
+
+private static void Main(string[] args) {
+
+Console.WriteLine("Hello, World!");
+
+Person p = new Person();
+
+p.Id = "123";
+
+p.Name = "suhas";
+
+man = new man;
+
+m.Id = "123";
+
+m.age = 23;
+
+m.Wifename = "a";
+
+woman w = new woman;
+
+w.Id = "456";
+
+w.age = 24;
+
+w.Husbandname = "b";
+
+Console.WriteLine(m.DisplayID(m.Id).ToString());
+
+Console.WriteLine(w.DisplayID(w.Id).ToString());
+
+Icalculator calc = new simplecalculator();
+
+Console.WriteLine(calc.Add(5, 6));
+
+Console.WriteLine(calc.Subtract(5, 6)); Console.WriteLine(calc.Multiply(5, 6));
+
+Console.WriteLine(calc.Divide(5, 6));
+}}

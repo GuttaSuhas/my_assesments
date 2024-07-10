@@ -1,0 +1,53 @@
+vusing System;
+
+using System.Collections.Generic;
+
+using System.Linq; using System.Text;
+
+Lusing System.Threading.Tasks;
+
+namespace ConsoleApp2 {
+
+4 references
+
+public class Person {
+
+5 references
+
+public string Id { get; set; }
+
+1 reference public string Name { get; set; }
+
+2 references
+
+public int age { get; set; }
+
+2 references
+
+public string DisplayID(string ID) {
+
+return ID;
+
+0
+
+}
+
+2 references
+
+public class man: Person
+
+{
+
+1 reference
+
+public string Wifename { get; set; }
+
+2 references
+
+public class woman: Person
+
+{
+
+1 reference
+
+public string Husbandname { get; set; }

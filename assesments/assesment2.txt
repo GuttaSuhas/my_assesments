@@ -1,0 +1,46 @@
+public class simplecalculator: Icalculator
+
+{
+
+3 references | 1/1 passing public int Add(int x, int y)
+
+{
+
+}
+
+return x + y;
+
+2 references public int Subtract(int x, int y)
+
+{
+
+}
+
+return xу;
+
+2 references public int Multiply(int x, int y)
+
+{
+
+}
+
+return x y;
+
+2 references public float Divide(int x, int y)
+
+{ return x / y:
+
+}
+
+3 references public interface Icalculator
+
+{
+
+3 references 1/1 passing int Add(int x, int y);
+
+2 references int Subtract(int x, int y);
+
+2 references int Multiply(int x, int y);
+
+2 references float Divide(int x, int y);
+}

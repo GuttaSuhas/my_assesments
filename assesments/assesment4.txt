@@ -1,0 +1,26 @@
+using ConsoleApp2;
+
+namespace Program.Tests {
+
+[TestClass()]
+
+O references
+
+public class simplecalculatorTests
+
+{
+
+[TestMethod()]
+
+10 references
+
+public void AddTest()
+
+{
+
+Icalculator calc = new simplecalculator();
+
+int result = calc.Add(1, 5);
+
+Assert.AreEqual(6, result);
+}}}
